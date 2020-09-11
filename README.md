@@ -65,10 +65,10 @@ Abra seu emulador e siga os comandos abaixo em seu terminal:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/agnaldoburgojr/fuel-price-app fuelPrice
+$ git clone https://github.com/agnaldoburgojr/perfect-eggs.git perfectEggs
 
 # Go into the repository
-$ cd fuelPrice
+$ cd perfectEggs
 
 # Run the app
 $ flutter run
