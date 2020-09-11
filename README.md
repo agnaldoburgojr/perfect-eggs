@@ -75,14 +75,13 @@ $ flutter run
 ```
 
 <br/>
-<br/>
 
 ## :large_blue_diamond: Licença
 
 Este projeto possui Licença MIT. Olhe [LICENSE](https://github.com/agnaldoburgojr/perfect-eggs/blob/master/LICENCE) para mais informações.
 
 <br/>
-<br/>
+
 ---
 
 Feito com ♥ por Agnaldo Burgo Junior :wave: [Get in touch!](https://www.linkedin.com/in/agnaldo-burgo-junior/)
